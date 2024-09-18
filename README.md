@@ -1,2 +1,5 @@
-# Knight-Run
-Unity 2D Run Game
+<게임 소개>
+
+게임설명 : 점프와 이동 버튼으로 3개의 sTAGE를 통과하는 런 게임
+제작기간 : 24.5.3 ~ 24.5.17
+플레이 영상 : https://youtu.be/aAiF1LoPKCk
